@@ -1,3 +1,6 @@
 WTFPL http://sam.zoy.org/wtfpl/
 
 Centralizing my code katas here.
+
+Katas:
+wrap.extension files are about word wrapping to a fixed N characters column.
